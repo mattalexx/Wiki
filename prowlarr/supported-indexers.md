@@ -2,15 +2,15 @@
 title: Prowlarr Supported Indexers
 description: Indexers currently named as supported in the current nightly build of Prowlarr. Other indexers may be available via either Generic Newznab or Generic Torznab.
 published: true
-date: 2023-10-28T00:54:18.146479
+date: 2023-10-30T00:56:55.710285
 tags: prowlarr, indexers
 editor: markdown
-dateCreated: 2023-10-28T00:54:18.146479
+dateCreated: 2023-10-30T00:56:55.710285
 ---
 
 - Supported Trackers and Indexers as of
-  - Prowlarr Build `1.10.1.4059` / [Commit: 71a19efd9a26f3e5c8c500a3449e196463a79ef9](https://github.com/Prowlarr/Prowlarr/commit/71a19efd9a26f3e5c8c500a3449e196463a79ef9)
-  - [Prowlarr Indexers Commit: 500e77afaf1343db29f8da03cab7086e88f1e552](https://github.com/Prowlarr/Indexers/commit/500e77afaf1343db29f8da03cab7086e88f1e552)
+  - Prowlarr Build `1.10.2.4061` / [Commit: edf41e2ead8fdfe4ea468d6138551a48b6e067ec](https://github.com/Prowlarr/Prowlarr/commit/edf41e2ead8fdfe4ea468d6138551a48b6e067ec)
+  - [Prowlarr Indexers Commit: def69d5c88f66b8ba75a5b254f3ca6e7caffb65d](https://github.com/Prowlarr/Indexers/commit/def69d5c88f66b8ba75a5b254f3ca6e7caffb65d)
 
 ---
 
@@ -79,7 +79,6 @@ dateCreated: 2023-10-28T00:54:18.146479
 |[MioBT](https://miobt.com/){#miobt}|MioBT is a CHINESE Public torrent index|Chinese (China)|
 |[MixtapeTorrent](http://www.mixtapetorrent.com/){#mixtapetorrent}|MixtapeTorrent is a Public Music site for MixTapes|English (United States)|
 |[MoviesDVDR](https://www.moviesdvdr.co/){#moviesdvdr}|MoviesDVDR is a SPANISH Public tracker for MOVIES|Spanish (Spain)|
-|[MovieTorrent](https://movietorrent.co/){#movietorrent}|MovieTorrent is a Public site for Bollywood, Hollywood, Hindi Dubbed, Tamil , Punjabi, Pakistani MOVIES|English (United States)|
 |[MyPornClub](https://myporn.club/){#mypornclub}|MyPornClub is a Public Torrent Tracker for 3X|English (United States)|
 |[NewStudio](http://newstudio.tv/){#newstudio}|NewStudio is a RUSSIAN Public site for TV|Russian (Russia)|
 |[NextJAV](https://nextjav.com/){#nextjav}|NextJAV is a Public tracker for Asian 3X (JAV)|English (United States)|
@@ -110,7 +109,7 @@ dateCreated: 2023-10-28T00:54:18.146479
 |[torrent-pirat](http://www.torrent-pirat.com/){#torrent-pirat}|torrent-pirat is a RUSSIAN Public Torrent Tracker for 3X|Russian (Russia)|
 |[Torrent9](https://www.torrent9.fm/){#torrent9}|Torrent9 is a FRENCH Public site for TV / MOVIES / GENERAL|French (France)|
 |[Torrent911](https://www.torrent911.io/){#torrent911}|Torrent911 is a French Public site for TV / MOVIES / GENERAL|French (France)|
-|[Torrent9 clone](https://www.torrent9.ps/){#torrent9clone}|Torrent9 clone is a FRENCH Public Torrent9 clone for TV / MOVIES / GENERAL|French (France)|
+|[Torrent9 clone](https://www.torrent9.ms/){#torrent9clone}|Torrent9 clone is a FRENCH Public Torrent9 clone for TV / MOVIES / GENERAL|French (France)|
 |[torrent\.by](https://torrent.by/){#torrentby}|torrent\.by is a BELARUSIAN public Torrent Tracker|Russian (Russia)|
 |[Torrent\[CORE\]](https://torrentcore.xyz/){#torrentcore}|Torrent\[CORE\] is a Public DHT Crawler|English (United States)|
 |[TorrentDownload](https://www.torrentdownload.info/){#torrentdownload}|TorrentDownload is a Public general torrent index|English (United States)|
@@ -135,7 +134,6 @@ dateCreated: 2023-10-28T00:54:18.146479
 |[xxxAdultTorrent](https://xxxadulttorrent.org/){#xxxadulttorrent}|xxxAdultTorrent is a RUSSIAN Public tracker for 3X|Russian (Russia)|
 |[XXXClub](https://xxxclub.to/){#xxxclub}|XXXClub is a Public torrent site for 3X|English (United States)|
 |[xxxtor](https://xxxtor.com/){#xxxtor}|xxxtor is a RUSSIAN Public Torrent Tracker for 3X|Russian (Russia)|
-|[xxxtorrents](https://www.xxxtorrents.pro/){#xxxtorrents}|xxxtorrents is a RUSSIAN Public Torrent Tracker for 3X|Russian (Russia)|
 |[YourBittorrent](https://yourbittorrent.com/){#yourbittorrent}|YourBittorrent is a Public torrent index|English (United States)|
 |[YTS](https://yts.mx/){#yts}|YTS is a Public torrent site specialising in HD movies of small size|English (United States)|
 |[zetorrents](https://www.zetorrents.pw/){#zetorrents}|zetorrents is a FRENCH Public site for MOVIES / TV / GENERAL|French (France)|
